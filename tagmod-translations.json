@@ -59,7 +59,7 @@
 			},
 			{
 				"value": "Consoles",
-				"translation": "Konzoly"
+				"translation": "Konzole"
 			},
 			{
 				"value": "Weekly",
@@ -67,7 +67,7 @@
 			},
 			{
 				"value": "Monthly",
-				"translation": "Měsíční"
+				"translation": "Měsíčně"
 			},
 			{
 				"value": "Annually",
@@ -87,7 +87,7 @@
 			},
 			{
 				"value": "Game History",
-				"translation": "Historie hry"
+				"translation": "Historie her"
 			},
 			{
 				"value": "Game Info",
@@ -95,15 +95,15 @@
 			},
 			{
 				"value": "Development",
-				"translation": "Rozvoj"
+				"translation": "Vývoj"
 			},
 			{
 				"value": "Current Engine",
-				"translation": "Rozvoj"
+				"translation": "Aktuální engine"
 			},
 			{
 				"value": "No Engine",
-				"translation": "Žádný motor"
+				"translation": "Žádný engine"
 			},
 			{
 				"value": "Dialogues",
@@ -111,7 +111,7 @@
 			},
 			{
 				"value": "Statistics",
-				"translation": "Statistika"
+				"translation": "Statistiky"
 			},
 			{
 				"value": "Units Sold",
@@ -175,7 +175,7 @@
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Fanoušci získali"
+				"translation": "Noví fanoušci"
 			},
 			{
 				"value": "Time",
@@ -187,7 +187,7 @@
 			},
 			{
 				"value": "Salary",
-				"translation": "Služné"
+				"translation": "Výplata"
 			},
 			{
 				"value": "Info & Stats",
@@ -195,7 +195,7 @@
 			},
 			{
 				"value": "Generate Report",
-				"translation": "Generovat přehled"
+				"translation": "Generovat zprávu"
 			},
 			{
 				"value": "Dev. Cost",
@@ -219,11 +219,11 @@
 			},
 			{
 				"value": "Need to generate a report first.",
-				"translation": "Nejprve potřebujete vytvořit zprávu."
+				"translation": "Nejprve potřebujete vygenerovat zprávu."
 			},
 			{
 				"value": "Time has elapsed to generate a report.",
-				"translation": "Čas vypršel pro generování sestavy."
+				"translation": "Vypršel čas pro generování zprávy."
 			},
 			{
 				"value": "Insights",
@@ -231,7 +231,7 @@
 			},
 			{
 				"value": "Engine Development",
-				"translation": "Vývoj motoru"
+				"translation": "Vývoj enginu"
 			},
 			{
 				"value": "Budget",
@@ -243,11 +243,11 @@
 			},
 			{
 				"value": "Choose Engine",
-				"translation": "Zvolte Motor"
+				"translation": "Zvolte engine"
 			},
 			{
 				"value": "Develop Expansion Pack",
-				"translation": "Vyvíjejte rozšiřující balíček"
+				"translation": "Vyvinout rozšiřující balíček"
 			},
 			{
 				"value": "Y{0}",
